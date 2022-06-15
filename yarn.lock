@@ -1216,6 +1216,9 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/login@file:./screens/login/":
+  version "1.0.0"
+
 "@screens/payment-split-screen@file:./screens/payment-split-screen":
   version "1.0.0"
 
